@@ -74,7 +74,7 @@ namespace WorkDayPullEmail
                                     Console.Write("What do we do here?");
                                 }
                             }
-                            //Move after processing all attachments .   sss
+                            //Move after processing all attachments .   sssbb
                             MoveToFolder(service, message, "Processed");
                         }
                         else
